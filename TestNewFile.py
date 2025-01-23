@@ -1,2 +1,3 @@
 X = 5
-print(X)
+y = 7
+print(X+y)
